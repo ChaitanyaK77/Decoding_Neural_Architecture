@@ -1,7 +1,7 @@
 # Decoding_Neural_Architecture
 Key Highlights:
 
-1) Neuron Design: I've designed the individual neurons in each layer, complete with their own weights and biases, simulating the way real neurons interact in the brain.
+1) Neuron Design: Designed individual neurons in each layer, complete with their own weights and biases.
 
 2) Activation Functions: I've implemented activation functions like the sigmoid function to introduce non-linearity and enable complex pattern recognition.
 
