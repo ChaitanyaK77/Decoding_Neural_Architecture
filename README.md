@@ -1,5 +1,6 @@
 # Decoding_Neural_Architecture
 **Vectorized Neural Network Implementation**
+---
 Key Highlights:
 
 1) Neuron Design:  Individual neurons in each layer have been designed, each equipped with their own unique weights and biases.
